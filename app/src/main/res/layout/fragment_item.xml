@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="1dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="2dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardMaxElevation="10dp"
+    app:cardPreventCornerOverlap="false"
+    app:cardUseCompatPadding="false"
+    android:scrollbars="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="0dp"
+        android:orientation="vertical">
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/task"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine"
+            android:hint="@string/info">
+
+        </com.rengwuxian.materialedittext.MaterialEditText>
+
+
+        <HorizontalScrollView
+            android:id="@+id/horizontal_scroll"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:scrollbars="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/text9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="9:00 "
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="10:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="11:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="12:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="13:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="14:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="15:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="16:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="17:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="18:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="19:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="20:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="21:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="22:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="23:00"
+                    android:padding="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:background="@drawable/txt_click"/>
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
+
+
+        <CalendarView
+            android:id="@+id/calendar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/list_frame"
+            android:theme="@style/CalenderViewCustom"
+            android:weekDayTextAppearance="@style/CalenderViewWeekCustomText">
+
+        </CalendarView>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+</ScrollView>

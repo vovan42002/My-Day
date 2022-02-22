@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/background_gradient.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/checkbox_selector.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/click.xml" value="0.2703125" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/cv_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/gradient.xml" value="0.2703125" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/slide_out.xml" value="0.2703125" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/style_123.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/style_info.xml" value="0.2703125" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/style_linear.xml" value="0.2703125" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/style_time_not_selected.xml" value="0.2703125" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/drawable/txt_click.xml" value="0.2703125" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/layout/activity_main.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/layout/click.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/layout/customtitlebar.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/layout/fragment_item.xml" value="0.152" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/layout/fragment_item_list.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/layout/fragment_plus.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/layout/list_activity.xml" value="0.152" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/layout/list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/layout/plus.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/layout/slide_out.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/layout/spinner_row.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/volod/AndroidStudioProjects/MyDay/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14739583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
